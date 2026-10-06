@@ -51,7 +51,7 @@ If you are looking for a motivated Java Developer who is eager to learn and cont
 
 • 💼 **GitHub:** `github.com/pallavi2722`
 
-• 🤝 **LinkedIn:** ` https://www.linkedin.com/in/pallavi-mane-8289b0289`
+• 🤝 **LinkedIn:** ` https://www.linkedin.com/in/pallavi-mane27`
 
 • 🚀 **Availability:** Open to Entry-Level Software Developer Opportunities
 
