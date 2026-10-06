@@ -4,7 +4,7 @@
 
 ## 👩‍💻 About Me
 
-I am a final-year Computer Engineering student and an aspiring Java Developer with a strong interest in software development and problem solving.
+I have completed Engineering  in computer and  aspiring Java Developer with a strong interest in software development and problem solving.
 
 I have knowledge of Java, Advance java,SQL, HTML, CSS, JavaScript. I enjoy learning new technologies and building practical projects.
 
